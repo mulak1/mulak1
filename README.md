@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mulak1
-- 👀 I’m interested in startups!
-- 🌱 I’m currently learning Protos
+- 👀 I’m interested in startups & ML/AI applications!
+- 🌱 I’m currently learning ML/AI techniques.
 - 📫 How to reach me email!
 
 <!---
