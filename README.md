@@ -27,6 +27,9 @@ Consumer Reports-grade empirical benchmarking suite evaluating open-source devel
 - **[Repository Launch Readiness Audit Kit](https://exactbaseline.com/launch-kit)** — Deterministic diagnostic suite evaluating security headers, `.cursorrules`, `llms.txt`, and Gitleaks CI defense.
 - **[Head-to-Head Developer Shootouts](https://exactbaseline.com/vs/cursor-vs-windsurf)** — Empirical head-to-head architectural comparisons with unified Swiss-style visual scorecards.
 
+### 3. [Awesome Developer Benchmarks](https://github.com/mulak1/awesome-developer-benchmarks)
+Curated open-source benchmark datasets, latency distributions, and empirical architectural comparisons across 97 engineering categories and 4,000+ data points. Published under MIT License with deep link integration to [ExactBaseline](https://exactbaseline.com).
+
 ---
 
 ## 🛠️ Open Protocols & Agent Discovery
