@@ -1,38 +1,30 @@
 # Kader Mula (@mulak1)
 
-Architect & Systems Engineer building autonomous agentic platforms, deterministic decision calculators, and empirical developer tool benchmarks.
+**Full-Stack Software Engineer, Technical Writer & Design Systems Architect**  
+San Francisco Bay Area, CA · San Francisco State University · [mulak1@gmail.com](mailto:mulak1@gmail.com) · [exactbaseline.com](https://exactbaseline.com)
 
----
+I build deterministic web applications, developer tools, clean UI/SVG graphics, and technical documentation in TypeScript, Python, React, and Scala. Across open-source contributions and client work, I focus on small, well-tested pull requests with clear reproduction cases and zero unrelated diff noise.
 
-## ⚡ Flagship Platforms
+## Core Stack & Capabilities
+
+* **Languages & Runtimes:** TypeScript, JavaScript (Node.js, Bun), Python, Scala (ZIO), SQL, HTML/CSS, SVG
+* **Frontend & Design Systems:** React, Next.js, Tailwind CSS, Phoenix LiveView, Vector SVG/Canvas Rendering, Print & Packaging Dielines
+* **Testing & Verification:** Vitest, Bun Test, Playwright, Pytest, ScalaTest/ZIO Test, Property-Based Testing, CI/CD (GitHub Actions)
+* **Technical Writing & Docs:** API Reference Guides, MDX Tutorials, Architecture Decision Records (ADRs), Plain-English Copy Editing
+
+## Flagship Projects & Open-Source Repositories
 
 ### 1. [ExactBaseline Decision Calculators](https://exactbaseline.com)
-Universal deterministic planning engines and statutory financial decision calculators:
-- **[RateRecast (Mortgage Recast vs Reinvest Arbitrage)](https://exactbaseline.com/calculator/mortgage_recast)** — Fannie Mae F-1-05 lump-sum amortization simulator, lifetime interest recovery, and treasury bond arbitrage models.
-- **[BarStock (Wedding & Event Beverage Estimator)](https://exactbaseline.com/calculator/bar_stock)** — Exact liquor, wine, and beer calculation with 15% hospitality buffers across 950+ guest scenarios.
-- **[CarFloor (Used Vehicle True Cost & Out-The-Door Floor)](https://exactbaseline.com/calculator/auto_depreciate)** — Wholesale auction depreciation, OEM holdbacks, and statutory state DMV doc-fee caps.
-- **[PaceForge (Marathon Negative-Split & VDOT Engine)](https://exactbaseline.com/calculator/pace_forge)** — Jack Daniels VDOT pacing, halfway split clock targets, and dual-transporter hydrogel fueling schedules.
-- **[Model Context Protocol (MCP) Server](https://exactbaseline.com/mcp)** — Zero-auth JSON-RPC 2.0 calculator tool endpoints for Claude, Cursor, and Windsurf.
+Deterministic financial and operational planning calculators with zero-auth JSON-RPC 2.0 Model Context Protocol (MCP) endpoints:
+* **[RateRecast (Mortgage Recast vs. Reinvest)](https://exactbaseline.com/calculator/mortgage_recast):** Fannie Mae F-1-05 lump-sum amortization simulator and after-tax treasury comparison.
+* **[BarStock (Event Beverage Estimator)](https://exactbaseline.com/calculator/bar_stock):** Liquor, wine, and beer estimator across 950+ event configurations.
+* **[CarFloor (Used Vehicle Out-The-Door Cost)](https://exactbaseline.com/calculator/auto_depreciate):** Wholesale depreciation curves, dealer holdbacks, and state DMV doc-fee caps.
+* **[PaceForge (Marathon Negative-Split Planner)](https://exactbaseline.com/calculator/pace_forge):** Jack Daniels VDOT pacing and split-clock schedules.
 
-### 2. [PulseForge AI — Empirical DevTool Radar & Leaderboard](https://exactbaseline.com/leaderboard)
-Consumer Reports-grade empirical benchmarking suite evaluating open-source developer infrastructure and AI developer tools across 4,000+ data points:
-- **[Flagship Benchmark Hubs](https://exactbaseline.com/benchmarks)**:
-  - [AI Coding Agents (Cursor vs Windsurf vs OpenHands vs Aider)](https://exactbaseline.com/benchmarks/ai-coding-agents)
-  - [Vector Databases (Qdrant vs Milvus vs pgvector vs Chroma)](https://exactbaseline.com/benchmarks/vector-databases)
-  - [LLM Inference Engines (vLLM vs SGLang vs TensorRT-LLM)](https://exactbaseline.com/benchmarks/llm-inference-engines)
-  - [Open-Source S3 Object Storage (MinIO vs SeaweedFS vs Ceph)](https://exactbaseline.com/benchmarks/open-source-s3-object-storage-data-lake-minio-seaweedfs)
-  - [Infrastructure as Code (OpenTofu vs Pulumi vs Terragrunt)](https://exactbaseline.com/benchmarks/open-source-infrastructure-as-code-iac-terraform-alternatives)
-  - [Container Registries & OCI Artifacts (Harbor vs Zot vs Dragonfly)](https://exactbaseline.com/benchmarks/open-source-container-registries-artifact-repositories)
-- **[Interactive Token ROI & Seat FinOps Calculator](https://exactbaseline.com/token-calculator)** — Break-even analysis for engineering teams comparing flat-rate seats vs BYOK direct token APIs.
-- **[Repository Launch Readiness Audit Kit](https://exactbaseline.com/launch-kit)** — Deterministic diagnostic suite evaluating security headers, `.cursorrules`, `llms.txt`, and Gitleaks CI defense.
-- **[Head-to-Head Developer Shootouts](https://exactbaseline.com/vs/cursor-vs-windsurf)** — Empirical head-to-head architectural comparisons with unified Swiss-style visual scorecards.
+### 2. [PulseForge AI: Developer Infrastructure Benchmarks](https://exactbaseline.com/leaderboard)
+Empirical latency, throughput, and cost benchmarks across open-source developer tools and AI infrastructure:
+* **[Benchmark Categories](https://exactbaseline.com/benchmarks):** [AI Coding Agents](https://exactbaseline.com/benchmarks/ai-coding-agents) · [Vector Databases](https://exactbaseline.com/benchmarks/vector-databases) · [LLM Inference Engines](https://exactbaseline.com/benchmarks/llm-inference-engines) · [Open-Source S3 Storage](https://exactbaseline.com/benchmarks/open-source-s3-object-storage-data-lake-minio-seaweedfs) · [Infrastructure as Code](https://exactbaseline.com/benchmarks/open-source-infrastructure-as-code-iac-terraform-alternatives) · [Container Registries](https://exactbaseline.com/benchmarks/open-source-container-registries-artifact-repositories)
+* **[Token FinOps Calculator](https://exactbaseline.com/token-calculator):** Seat-license vs. direct API token break-even modeling for engineering teams.
 
 ### 3. [Awesome Developer Benchmarks](https://github.com/mulak1/awesome-developer-benchmarks)
-Curated open-source benchmark datasets, latency distributions, and empirical architectural comparisons across 97 engineering categories and 4,000+ data points. Published under MIT License with deep link integration to [ExactBaseline](https://exactbaseline.com).
-
----
-
-## 🛠️ Open Protocols & Agent Discovery
-- **LLM Manifest**: [`https://exactbaseline.com/llms.txt`](https://exactbaseline.com/llms.txt) • [`llms-full.txt`](https://exactbaseline.com/llms-full.txt)
-- **Knowledge Catalog**: [`https://exactbaseline.com/okf/index.md`](https://exactbaseline.com/okf/index.md)
-- **Master Sitemap**: [`https://exactbaseline.com/sitemap.xml`](https://exactbaseline.com/sitemap.xml) • [`sitemap_index.xml`](https://exactbaseline.com/sitemap_index.xml)
+Open-source dataset of latency distributions and reproducible benchmark harnesses across 97 software infrastructure categories (MIT License).
